@@ -104,7 +104,7 @@ Currently, GrimoireLab toolkit is organized in the following repositories:
 
 There are also some [components built by the GrimoreLab community](community_components.md),
 which can be useful for you. Other related repositories are:
-* [GrimoireLab Tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+* [GrimoireLab Tutorial](https://chaoss.github.io/grimoirelab-tutorial)
 * [GrimoireLab as a whole](https://github.com/chaoss/grimoirelab) (this repository)
 
 ## Contents of this repository
